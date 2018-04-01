@@ -1,3 +1,5 @@
+translating by kennethXia
+
 How to add network bridge with nmcli (NetworkManager) on Linux
 ======
 
